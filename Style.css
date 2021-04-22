@@ -104,6 +104,5 @@ body{
        display: absolute;
        right: 0;
        flex-direction: column;
-       background-color: black;
     }    
 }
